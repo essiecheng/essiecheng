@@ -18,25 +18,29 @@ Here are some ideas to get you started:
 
 ## 🛠 Tech Stack:
 Languages: Python, Java
+
 Data Science: Pandas, NumPy, scikit-learn, TensorFlow
+
 Web Dev: HTML, CSS, JavaScript (basic)
+
 Tools: Jupyter Notebooks, Git, GitHub
+
 Databases: SQL
 
 ## 🚀 Projects:
-- AI Driven Financial News Analysis
+- [AI Driven Financial News Analysis]https://github.com/NDriDiby/AI-ML-Studio
   - Utilized supervised learning and natural language processing to examine how different types of sentiments (positive,
 negative, neutral) in financial news influence stock price movements
   - Fine tuned models to achieve high accuracy in
 predicting stock price movements
 
-- Power Outages Analysis and Prediction November 
+- [Power Outages Analysis]https://essiecheng.github.io/Power-Outage-Analysis/ and [Prediction]https://essiecheng.github.io/Power-Outages-Prediction/  
   - Performed exploratory data analysis on major power outage data in the U.S.; Conducted hypothesis and permutation tests for
 missingness assessment and statistical investigations and visualized data summarizations to identify and addresses potential
 geographical regions for electricity infrastructure improvement
   - Developed a random forest regression model to predict the severity of a major power outage in terms of its outage duration
 
-- NBA Games Win/Loss prediction December 2024
+- NBA Games Win/Loss Prediction
   - Conducted exploratory data analysis on NBA game data (2013-2024) to uncover patterns in wins/losses, team performance,
 and seasonal trends
   - Developed and optimized logistic regression, decision trees, and naive bayes models to predict NBA game results, achieving
