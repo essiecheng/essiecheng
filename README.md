@@ -28,13 +28,13 @@ Tools: Jupyter Notebooks, Git, GitHub
 Databases: SQL
 
 ## 🚀 Projects:
-- [AI Driven Financial News Analysis]https://github.com/NDriDiby/AI-ML-Studio
+- [AI Driven Financial News Analysis](https://github.com/NDriDiby/AI-ML-Studio)
   - Utilized supervised learning and natural language processing to examine how different types of sentiments (positive,
 negative, neutral) in financial news influence stock price movements
   - Fine tuned models to achieve high accuracy in
 predicting stock price movements
 
-- [Power Outages Analysis]https://essiecheng.github.io/Power-Outage-Analysis/ and [Prediction]https://essiecheng.github.io/Power-Outages-Prediction/  
+- [Power Outages Analysis](https://essiecheng.github.io/Power-Outage-Analysis/) and [Prediction](https://essiecheng.github.io/Power-Outages-Prediction/)  
   - Performed exploratory data analysis on major power outage data in the U.S.; Conducted hypothesis and permutation tests for
 missingness assessment and statistical investigations and visualized data summarizations to identify and addresses potential
 geographical regions for electricity infrastructure improvement
@@ -50,5 +50,5 @@ and seasonal trends
 
 ## 📫 How to reach me:
 - Email: e3cheng@ucsd.edu
-- LinkedIn: [My LinkedIn]www.linkedin.com/in/essie-cheng-8b6666298
+- LinkedIn: [My LinkedIn](www.linkedin.com/in/essie-cheng-8b6666298)
   
