@@ -40,11 +40,17 @@ missingness assessment and statistical investigations and visualized data summar
 geographical regions for electricity infrastructure improvement
   - Developed a random forest regression model to predict the severity of a major power outage in terms of its outage duration
 
-- NBA Games Win/Loss Prediction
+- [NBA Games Win/Loss Prediction](https://docs.google.com/document/d/10Mju5t6YOtdjU7JkhI-iIXEiCEubmocq/edit)
   - Conducted exploratory data analysis on NBA game data (2013-2024) to uncover patterns in wins/losses, team performance,
 and seasonal trends
   - Developed and optimized logistic regression, decision trees, and naive bayes models to predict NBA game results, achieving
 80% test accuracy
+
+- [United States in the Olympics](https://essiecheng2.github.io/dsc106-final-deliverables/)
+  -   Collaborated to design and develop 8 interactive data visualizations using D3.js, highlighting key trends in the U.S.
+Olympic journey and identifying opportunities for Olympic future success
+  - Created a scrollytelling webpage using Svelte, integrating visualizations, narratives, and user interaction features to
+showcase insights and enhance data exploration
 
 ## 📊 GitHub Stats: Coming soon! 
 
