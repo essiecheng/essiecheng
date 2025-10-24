@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Third year at UCSD, studying Data Science
+🎓 Fourth year at UCSD, studying Data Science
 
 ## 🛠 Tech Stack:
 Languages: Python, Java
